@@ -15,7 +15,7 @@ Beschouw de schakeling in figuur 5-20. De totale stroom $${I}_{T}$$ vertrekt van
 
 $${I}_{T}={I}_{1}+{I}_{2}+{I}_{3}$$
 
-In knooppunt $$B$$ komen de stromen $${I}_{1}, {I}_{2}$$ en $${I}_{3}$$ toe. De stoom die knooppunt $$B$$ verlaat is $${I}_{T}.$$ Voor knooppunt $$B$$ kan je dan volgende vergelijking schrijven:
+In knooppunt $$B$$ komen de stromen $${I}_{1}, {I}_{2}$$ en $${I}_{3}$$ samen. De stoom die knooppunt $$B$$ verlaat is $${I}_{T}.$$ Voor knooppunt $$B$$ kan je dan volgende vergelijking schrijven:
 
 ![](../.gitbook/assets/afbeelding_11419.png)
 
