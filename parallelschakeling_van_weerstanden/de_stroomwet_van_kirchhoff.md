@@ -9,7 +9,7 @@ Wat is belangrijk?
 * Je bepaalt de totale stroom aan de hand van het optellen van de individuele takstromen.
 * **Je bepaalt de stroom in een tak van een parallelschakeling** .
 
-De stroomwet van Kirchhoff zegt dat de som van de stromen die in een bepaald knooppunt toekomen gelijk is aan de som van de stromen die dit knooppunt verlaten. De stroomwet geeft dus aan dat de ingangsstroom in een knooppunt gelijk is aan de totale uitgangsstroom van dit knooppunt. Een knooppunt of een node is eender welk punt of junctie in een schakeling waarbij twee of meer componenten met elkaar verbonden zijn.
+De stroomwet van Kirchhoff zegt dat de som van de stromen die in een bepaald knooppunt samenkomen gelijk is aan de som van de stromen die dit knooppunt verlaten. De stroomwet geeft dus aan dat de ingangsstroom in een knooppunt gelijk is aan de totale uitgangsstroom van dit knooppunt. Een knooppunt of een node is eender welk punt of junctie in een schakeling waarbij twee of meer componenten met elkaar verbonden zijn.
 
 Beschouw de schakeling in figuur 5-20. De totale stroom $${I}_{T}$$ vertrekt van de negatieve klem van de spanningsbron en stroomt binnen in knooppunt $$A$$ . Vanuit knooppunt $$A$$ vertrekken drie stromen $${I}_{1}, {I}_{2}$$ en $${I}_{3}$$ . De stroomwet van Kirchhoff toepassen in knooppunt $$A$$ levert volgende vergelijking op:
 
