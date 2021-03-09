@@ -1,6 +1,6 @@
 # Stroomdelers
 
-Een parallelschakeling gedraagt zich als een stroomdeler als de stroom die op het knooppunt van de verschillende in parallel staande stroomtakken zich verdeelt in deze verschillende in parallel staande stroomtakken.
+Een parallelschakeling gedraagt zich als een stroomdeler vermits de stroom die toekomt op het knooppunt van de verschillende in parallel staande stroomtakken zich verdeeld in deze verschillende in parallel staande stroomtakken.
 
 Wat is belangrijk?
 

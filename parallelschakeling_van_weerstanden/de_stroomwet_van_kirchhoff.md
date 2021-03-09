@@ -27,16 +27,6 @@ De stroomwet van Kirchhoff is toepasbaar op alle elektronische schakelingen. De 
 
 $${\mathit{I}}_{\mathit{i}\mathit{n}\left(1\right)}+{\mathit{I}}_{\mathit{i}\mathit{n}\left(2\right)}+\dots +{\mathit{I}}_{\mathit{i}\mathit{n}\left(\mathit{n}\right)}={\mathit{I}}_{\mathit{u}\mathit{i}\mathit{t}\left(1\right)}+{\mathit{I}}_{\mathit{u}\mathit{i}\mathit{t}\left(2\right)}+\dots {\mathit{I}}_{\mathit{u}\mathit{i}\mathit{t}\left(\mathit{m}\right)}\mathit{ }$$ _**\(5-4\)**_
 
-Een andere schrijfwijze van de stroomwet van Kirchhoff:
-
-$$\sum _{i=1}^{n}{I}_{i}=0$$
-
-$$8 A$$ Dit betekent : De algebraïsche som van alle stromen die in een knooppunt vloeien en wegvloeien is gelijk aan nul.
-
-$${I}_{3}$$ $$A$$
-
-$$A$$
-
 ## Test jezelf : De stroomwet van Kirchhoff <a id="test-jezelf-de-stroomwet-van-kirchhoff"></a>
 
 1. **Geef de stroomwet van Kirchhoff op 2 verschillende manieren.**
