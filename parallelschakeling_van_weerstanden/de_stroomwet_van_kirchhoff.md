@@ -19,7 +19,7 @@ In knooppunt $$B$$ komen de stromen $${I}_{1}, {I}_{2}$$ en $${I}_{3}$$ samen. D
 
 ![](../.gitbook/assets/afbeelding_11419.png)
 
-Figuur 5-20 : Stroom wet van Kirchhoff : de toekomende stromen in een knooppunt zijn gelijk aan de wegvloeiende stromen van dat knooppunt.
+Figuur 5-20 : Stroom wet van Kirchhoff : de samenkomende stromen in een knooppunt zijn gelijk aan de wegvloeiende stromen van dat knooppunt.
 
 $${I}_{1}+{I}_{2}+{I}_{3}={I}_{T}$$
 
