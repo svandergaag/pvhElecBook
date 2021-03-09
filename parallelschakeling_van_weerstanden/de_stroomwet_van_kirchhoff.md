@@ -4,7 +4,7 @@ In hoofdstuk vier is de spanningswet besproken. Deze handelt over spanningen in 
 
 Wat is belangrijk?
 
-* Je zegt de stroomwet van Kirchhoff op.
+* Je weet de stroomwet van Kirchhoff te benoemen.
 * Je definieert het begrip knooppunt \(node\).
 * Je bepaalt de totale stroom aan de hand van het optellen van de individuele takstromen.
 * **Je bepaalt de stroom in een tak van een parallelschakeling** .
