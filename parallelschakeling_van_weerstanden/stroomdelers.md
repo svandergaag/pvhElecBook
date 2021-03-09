@@ -1,6 +1,6 @@
 # Stroomdelers
 
-Een parallelschakeling gedraagt zich als een stroomdeler vermits de stroom die toekomt op het knooppunt van de verschillende in parallel staande stroomtakken zich verdeeld in deze verschillende in parallel staande stroomtakken.
+Een parallelschakeling gedraagt zich als een stroomdeler als de stroom die op het knooppunt van de verschillende in parallel staande stroomtakken zich verdeelt in deze verschillende in parallel staande stroomtakken.
 
 Wat is belangrijk?
 
@@ -11,7 +11,7 @@ Aangezien bij een parallelschakeling dezelfde spanning staat over de weerstanden
 
 ## Formule voor de stroomdeler <a id="formule-voor-de-stroomdeler"></a>
 
-Via de wet van Ohm kan je de stroom bepalen over een willekeurige parallelweerstand. Stel $${U}_{bron}$$ is de spanning van de spanningsbron, $${I}_{x}$$ de stroom door een bepaalde parallelweerstand en $${R}_{x}$$ de weerstandswaarde van die bepaalde parallelweerstand.
+Via de wet van Ohm kan je de stroom bepalen door een willekeurige parallelweerstand. Stel $${U}_{bron}$$ is de spanning van de spanningsbron, $${I}_{x}$$ de stroom door een bepaalde parallelweerstand en $${R}_{x}$$ de weerstandswaarde van die bepaalde parallelweerstand.
 
 ![](../.gitbook/assets/afbeelding_11433.png)
 
