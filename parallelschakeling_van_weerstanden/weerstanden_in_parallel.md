@@ -43,19 +43,15 @@ Oplossing
 | :--- | :--- |
 |  |  |
 
-\|
-
-\|
-
 Figuur 5-5
 
 Een voorbeeld van een mogelijke bedrading is weergegeven in figuur 5-5 \(a\). Figuur 5-5 \(b\) toont het elektrisch schema van de parallelschakeling. Merk op dat het elektrisch schema niet noodzakelijk de fysische weergave van de schakeling moet weergeven. Het schema toont hoe de componenten op elektrische wijze met elkaar verbonden zijn.
 
 ## Test jezelf : weerstanden in parallel <a id="test-jezelf-weerstanden-in-parallel"></a>
 
-1. 1. 1. 1. Hoe zijn weerstanden verbonden in een parallelschakeling?
-         2. Hoe herken je een parallelschakeling?
-         3. **Vervolledig de schema’s in figuur 5-6 zodat de weerstanden in parallel staat tussen de knooppunten** $$\mathit{A}$$ **en** $$\mathit{B}$$ **.**
+1. Hoe zijn weerstanden verbonden in een parallelschakeling?
+2. Hoe herken je een parallelschakeling?
+3. **Vervolledig de schema’s in figuur 5-6 zodat de weerstanden in parallel staat tussen de knooppunten** $$\mathit{A}$$ **en** $$\mathit{B}$$ **.**
 
 ![](../.gitbook/assets/afbeelding_11385.png)
 
