@@ -5,7 +5,7 @@ Als twee of meer weerstanden verbonden zijn met dezelfde twee punten zegt men da
 Wat is belangrijk?
 
 * Je kan een parallelschakeling herkennen.
-* **Je kan een fysische parallelschakeling omvormen tot een schema** .
+* **Je kan een parallelschakeling omvormen tot een schema** .
 
 Ieder pad in een parallelschakeling wordt een tak of een “branch” genoemd. In figuur 5-1 zijn twee weerstanden in parallel weergegeven. De totale stroom $${I}_{T}$$ splitst zich vanaf knooppunt $$B$$ in twee deelstromen $${I}_{1}$$ en $${I}_{2}$$ . De stroom $${I}_{1}$$ vloeit door $${R}_{1}$$ en de stroom $${I}_{2}$$ door $${R}_{2}$$ .
 
